@@ -1,0 +1,5 @@
+# Git ignore based on espressif for ESP-IDF project
+# Source : https://github.com/espressif/esp-idf-template/blob/master/.gitignore
+codz/build/
+codz/sdkconfig
+codz/sdkconfig.old
